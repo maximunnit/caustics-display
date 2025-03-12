@@ -1,6 +1,6 @@
 # caustics-display
 
-A simple C++ program used to verify the caustics pattern produced by the output of [Kassubeck et al.'s implementation](https://github.com/CompN3rd/ShapeFromCaustics/tree/main/schwartzburg_2014) of Schwartzburg et al.'s [High-contrast computational caustic design](https://dl.acm.org/doi/10.1145/2601097.2601200).
+A C++ program used to verify the caustics pattern produced by the output of [Kassubeck et al.'s implementation](https://github.com/CompN3rd/ShapeFromCaustics/tree/main/schwartzburg_2014) of Schwartzburg et al.'s [High-contrast computational caustic design](https://dl.acm.org/doi/10.1145/2601097.2601200).
 
 ## Dependencies
 
